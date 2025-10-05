@@ -1,6 +1,6 @@
 {
   "id": "jq-likes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "jq-likes",
   "documentationURL": "https://github.com/eitsupi/devcontainer-features/tree/main/src/jq-likes",
   "description": "Install jq and similar tools (yq, gojq, xq).",
